@@ -26,4 +26,4 @@ Start with Feedback Nexus for prioritization, or Asana Agent for AI product judg
 
 ## Reading the repositories
 
-Each repository is intentionally small. `src/` is the interactive sample: it contains the local sample data, product rules, screens, and accessibility treatment. `package.json` is the project’s plain-language run card: it names the browser build, type check, unit-test, and browser-test commands. 
+Each repository is intentionally small. `src/` is the interactive sample: it contains the local sample data, product rules, screens, and accessibility treatment. `package.json` is the project’s plain-language run card: it names the browser build, type check, unit-test, and browser-test commands.
