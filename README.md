@@ -18,8 +18,12 @@ These interactive case studies make that thinking tangible. Choose a scenario, m
 
 ## How to read these projects
 
-My focus is product definition, prioritization, requirements, workflow design, and evaluation. I use Google Antigravity and AI-assisted implementation to turn product ideas into testable experiences.
+My role is product definition, prioritization, requirements, workflow design, and evaluation. I use AI-assisted implementation to turn product ideas into testable experiences, then review the interactions and evidence against the product rules. I do not claim sole authorship of generated application code or customer outcomes.
 
 Northstar is a fictional B2B SaaS company used across the examples. The demos are independent, use sample data, and require no login. Simulated AI behavior is labeled. Proposed success metrics are hypotheses; software checks are reported separately from human research and customer outcomes.
 
 Start with Feedback Nexus for prioritization, or Asana Agent for AI product judgment.
+
+## Reading the repositories
+
+Each repository is intentionally small. `src/` is the interactive sample: it contains the local sample data, product rules, screens, and accessibility treatment. `package.json` is the project’s plain-language run card: it names the browser build, type check, unit-test, and browser-test commands. 
