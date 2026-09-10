@@ -2,28 +2,30 @@
 
 **Product Manager · B2B SaaS & AI product experiences**
 
-I’m interested in the decisions that make a product useful: which customer problem to solve, what to prioritize, how to measure progress, and where an AI experience needs a person in control.
+I frame product problems, choose priorities, define requirements, and evaluate whether a workflow helps people make better decisions. This portfolio shows those choices through five interactive case studies and their product requirements documents (PRDs).
 
-These interactive case studies make that thinking tangible. Choose a scenario, make a decision, and inspect what changes. Each project includes the product rationale, requirements, tradeoffs, and a next validation step.
+**My contribution:** product problem framing, prioritization and tradeoffs, requirements and workflows, fictional sample-data design, success criteria, and evaluation. Google Antigravity and other AI tools assisted with implementation and verification. I do not manually write the application code.
 
-## Explore the portfolio
+## Start with the product decisions
 
-| Case study | Product question | Try it |
-|---|---|---|
-| [Feedback Nexus](https://github.com/mvahedi2020/Feedback-Nexus) | How do scattered customer signals become explainable priorities? | [Review feedback →](https://mvahedi2020.github.io/Feedback-Nexus/) |
-| [Asana Agent](https://github.com/mvahedi2020/Asana-Agent) | How can an assistant help with work while keeping changes explicit and controlled? | [Explore the sample assistant →](https://mvahedi2020.github.io/Asana-Agent/) |
-| [Metric Dashboard](https://github.com/mvahedi2020/Metric-Dashboard) | Which product metrics reveal where customers reach value or drop off? | [Explore product health →](https://mvahedi2020.github.io/Metric-Dashboard/) |
-| [Resource Radar](https://github.com/mvahedi2020/Resource-Radar) | How does a product plan change when actual team availability is visible? | [Compare allocations →](https://mvahedi2020.github.io/Resource-Radar/) |
-| [Launch Control](https://github.com/mvahedi2020/Launch-Control) | What evidence should support a cross-functional go/no-go decision? | [Review launch readiness →](https://mvahedi2020.github.io/Launch-Control/) |
+You can review the portfolio without reading code. Open a PRD for the problem, scope, and acceptance criteria, then try the demo to inspect how the requirements behave.
 
-## How to read these projects
+| Case study | Product management judgment to inspect | Product requirements | Interactive demo |
+|---|---|---|---|
+| [Feedback Nexus](https://github.com/mvahedi2020/Feedback-Nexus) | Prioritize customer signals while preserving the original evidence and explaining the decision. | [Read the PRD](https://github.com/mvahedi2020/Feedback-Nexus/blob/main/docs/product/PRD.md) | [Review feedback](https://mvahedi2020.github.io/Feedback-Nexus/) |
+| [Asana Agent](https://github.com/mvahedi2020/Asana-Agent) | Define an assistant's boundaries: clarify ambiguity, confirm changes, and let people recover from mistakes. | [Read the PRD](https://github.com/mvahedi2020/Asana-Agent/blob/main/docs/product/PRD.md) | [Try the sample assistant](https://mvahedi2020.github.io/Asana-Agent/) |
+| [Metric Dashboard](https://github.com/mvahedi2020/Metric-Dashboard) | Define useful metrics, transparent denominators, and the limits of a conclusion before prioritizing action. | [Read the PRD](https://github.com/mvahedi2020/Metric-Dashboard/blob/main/docs/product/PRD.md) | [Explore product health](https://mvahedi2020.github.io/Metric-Dashboard/) |
+| [Resource Radar](https://github.com/mvahedi2020/Resource-Radar) | Balance initiative demand against available capacity and make the consequences of a plan explicit. | [Read the PRD](https://github.com/mvahedi2020/Resource-Radar/blob/main/docs/product/PRD.md) | [Compare allocations](https://mvahedi2020.github.io/Resource-Radar/) |
+| [Launch Control](https://github.com/mvahedi2020/Launch-Control) | Define launch readiness, decision ownership, and when new evidence must withdraw a prior Go decision. | [Read the PRD](https://github.com/mvahedi2020/Launch-Control/blob/main/docs/product/PRD.md) | [Review launch readiness](https://mvahedi2020.github.io/Launch-Control/) |
 
-My role is product definition, prioritization, requirements, workflow design, and evaluation. I use AI-assisted implementation to turn product ideas into testable experiences, then review the interactions and evidence against the product rules. I do not claim sole authorship of generated application code or customer outcomes.
+Start with **Feedback Nexus** for prioritization or **Asana Agent** for AI product judgment. Each repository also links its case study, scope decisions, and validation plan.
 
-Northstar is a fictional B2B SaaS company used across the examples. The demos are independent, use sample data, and require no login. Simulated AI behavior is labeled. Proposed success metrics are hypotheses; software checks are reported separately from human research and customer outcomes.
+## What the evidence shows
 
-Start with Feedback Nexus for prioritization, or Asana Agent for AI product judgment.
+The demos make product requirements testable: inspect a decision, change the sample inputs, and see whether the workflow follows its rules. The product documents explain the intended user value, the tradeoffs, and what needs to be learned next.
 
-## Reading the repositories
+Northstar is a fictional B2B SaaS company used across all five examples. The demos require no login, paid API, real customer data, or live external integrations. Asana Agent is a transparent sample assistant; it connects to neither Asana nor an external AI model.
 
-Each repository is intentionally small. `src/` is the interactive sample: it contains the local sample data, product rules, screens, and accessibility treatment. `package.json` is the project’s plain-language run card: it names the browser build, type check, unit-test, and browser-test commands.
+Proposed success metrics are hypotheses, not achieved business results. Software checks establish whether specified behaviors work; they do not replace customer research, demonstrate adoption, or prove commercial impact. Validation plans distinguish those open questions from the behavior demonstrated today.
+
+Source code remains public for transparency. The PRDs, case studies, and interactive workflows are the starting points for evaluating my product management work.
