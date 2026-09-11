@@ -20,6 +20,20 @@ You can review the portfolio without reading code. Open a PRD for the problem, s
 
 Start with **Feedback Nexus** for prioritization or **Asana Agent** for AI product judgment. Each repository also links its case study, scope decisions, and validation plan.
 
+## A closer look at my product management work
+
+Choose the question you want to evaluate. Each document uses the fictional Northstar scenario and makes its assumptions explicit.
+
+| PM skill | What to inspect | Example |
+|---|---|---|
+| Customer discovery | Neutral research questions and evidence that could disprove the problem hypothesis | [Feedback Nexus discovery plan](https://github.com/mvahedi2020/Feedback-Nexus/blob/main/docs/product/Discovery_Plan.md) |
+| AI product judgment | Alternatives, human control, and conditions for revisiting a product decision | [Asana Agent product decisions](https://github.com/mvahedi2020/Asana-Agent/blob/main/docs/product/Product_Decisions.md) |
+| Measurement and evaluation | How a proposed study distinguishes comprehension from task completion | [Metric Dashboard validation plan](https://github.com/mvahedi2020/Metric-Dashboard/blob/main/docs/product/Validation.md) |
+| Prioritization | The evidence needed before investing in the next planning capability | [Resource Radar product backlog](https://github.com/mvahedi2020/Resource-Radar/blob/main/docs/product/Sprint_Backlog.md) |
+| Risk and launch judgment | Product risks, warning signs, and the limits of a launch decision | [Launch Control product risks](https://github.com/mvahedi2020/Launch-Control/blob/main/docs/product/Product%20Risks.md) |
+
+These are product artifacts for review, not records of completed customer research or shipped commercial outcomes. The requirements and demos show what can be inspected now; the discovery, market, and evaluation plans explain what I would need to learn before investing further.
+
 ## What the evidence shows
 
 The demos make product requirements testable: inspect a decision, change the sample inputs, and see whether the workflow follows its rules. The product documents explain the intended user value, the tradeoffs, and what needs to be learned next.
