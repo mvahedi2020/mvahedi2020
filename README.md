@@ -4,7 +4,7 @@
 
 I frame product problems, choose priorities, define requirements, and evaluate whether a workflow helps people make better decisions. This portfolio shows those choices through five interactive case studies and their product requirements documents (PRDs).
 
-**My contribution:** product problem framing, prioritization and tradeoffs, requirements and workflows, fictional sample-data design, success criteria, and evaluation. Google Antigravity and other AI tools assisted with implementation and verification. I do not manually write the application code.
+**My contribution:** product problem framing, prioritization and tradeoffs, requirements and workflows, fictional sample-data design, success criteria, and evaluation. AI tools assisted with implementation and verification. I do not manually write the application code.
 
 ## Start with the product decisions
 
