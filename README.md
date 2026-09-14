@@ -8,17 +8,17 @@ I frame product problems, choose priorities, define requirements, and evaluate w
 
 ## Start with the product decisions
 
-You can review the portfolio without reading code. Open a PRD for the problem, scope, and acceptance criteria, then try the demo to inspect how the requirements behave.
+You can review the portfolio without reading code. Start with a project’s case study for the decision and tradeoff. Follow its sample walkthrough to reproduce a concrete scenario, then use the PRD and validation plan to inspect the rules and evidence limits.
 
-| Case study | Product management judgment to inspect | Product requirements | Interactive demo |
+| Case study | Product management judgment to inspect | Product evidence | Interactive demo |
 |---|---|---|---|
-| [Feedback Nexus](https://github.com/mvahedi2020/Feedback-Nexus) | Prioritize customer signals while preserving the original evidence and explaining the decision. | [Read the PRD](https://github.com/mvahedi2020/Feedback-Nexus/blob/main/docs/product/PRD.md) | [Review feedback](https://mvahedi2020.github.io/Feedback-Nexus/) |
-| [Asana Agent](https://github.com/mvahedi2020/Asana-Agent) | Define an assistant's boundaries: clarify ambiguity, confirm changes, and let people recover from mistakes. | [Read the PRD](https://github.com/mvahedi2020/Asana-Agent/blob/main/docs/product/PRD.md) | [Try the sample assistant](https://mvahedi2020.github.io/Asana-Agent/) |
-| [Metric Dashboard](https://github.com/mvahedi2020/Metric-Dashboard) | Define useful metrics, transparent denominators, and the limits of a conclusion before prioritizing action. | [Read the PRD](https://github.com/mvahedi2020/Metric-Dashboard/blob/main/docs/product/PRD.md) | [Explore product health](https://mvahedi2020.github.io/Metric-Dashboard/) |
-| [Resource Radar](https://github.com/mvahedi2020/Resource-Radar) | Balance initiative demand against available capacity and make the consequences of a plan explicit. | [Read the PRD](https://github.com/mvahedi2020/Resource-Radar/blob/main/docs/product/PRD.md) | [Compare allocations](https://mvahedi2020.github.io/Resource-Radar/) |
-| [Launch Control](https://github.com/mvahedi2020/Launch-Control) | Define launch readiness, decision ownership, and when new evidence must withdraw a prior Go decision. | [Read the PRD](https://github.com/mvahedi2020/Launch-Control/blob/main/docs/product/PRD.md) | [Review launch readiness](https://mvahedi2020.github.io/Launch-Control/) |
+| [Feedback Nexus](https://github.com/mvahedi2020/Feedback-Nexus) | Prioritize customer signals while preserving the original evidence and explaining the decision. | [PRD](https://github.com/mvahedi2020/Feedback-Nexus/blob/main/docs/product/PRD.md) · [Sample walkthrough](https://github.com/mvahedi2020/Feedback-Nexus/blob/main/docs/product/Sample%20Walkthrough.md) | [Review feedback](https://mvahedi2020.github.io/Feedback-Nexus/) |
+| [Asana Agent](https://github.com/mvahedi2020/Asana-Agent) | Define an assistant's boundaries: clarify ambiguity, confirm changes, and let people recover from mistakes. | [PRD](https://github.com/mvahedi2020/Asana-Agent/blob/main/docs/product/PRD.md) · [Sample walkthrough](https://github.com/mvahedi2020/Asana-Agent/blob/main/docs/product/Sample%20Walkthrough.md) | [Try the sample assistant](https://mvahedi2020.github.io/Asana-Agent/) |
+| [Metric Dashboard](https://github.com/mvahedi2020/Metric-Dashboard) | Define useful metrics, transparent denominators, and the limits of a conclusion before prioritizing action. | [PRD](https://github.com/mvahedi2020/Metric-Dashboard/blob/main/docs/product/PRD.md) · [Sample walkthrough](https://github.com/mvahedi2020/Metric-Dashboard/blob/main/docs/product/Sample%20Walkthrough.md) | [Explore product health](https://mvahedi2020.github.io/Metric-Dashboard/) |
+| [Resource Radar](https://github.com/mvahedi2020/Resource-Radar) | Balance initiative demand against available capacity and make the consequences of a plan explicit. | [PRD](https://github.com/mvahedi2020/Resource-Radar/blob/main/docs/product/PRD.md) · [Sample walkthrough](https://github.com/mvahedi2020/Resource-Radar/blob/main/docs/product/Sample%20Walkthrough.md) | [Compare allocations](https://mvahedi2020.github.io/Resource-Radar/) |
+| [Launch Control](https://github.com/mvahedi2020/Launch-Control) | Define launch readiness, decision ownership, and when new evidence must withdraw a prior Go decision. | [PRD](https://github.com/mvahedi2020/Launch-Control/blob/main/docs/product/PRD.md) · [Sample walkthrough](https://github.com/mvahedi2020/Launch-Control/blob/main/docs/product/Sample%20Walkthrough.md) | [Review launch readiness](https://mvahedi2020.github.io/Launch-Control/) |
 
-Start with **Feedback Nexus** for prioritization or **Asana Agent** for AI product judgment. Each repository also links its case study, scope decisions, and validation plan.
+Start with **Feedback Nexus** to inspect an evidence-based prioritization choice or **Asana Agent** to inspect confirmation and recovery boundaries. The walkthroughs use exact sample inputs and observable results; they are product tutorials, not claims of customer validation.
 
 ## A closer look at my product management work
 
@@ -36,7 +36,7 @@ These are product artifacts for review, not records of completed customer resear
 
 ## What the evidence shows
 
-The demos make product requirements testable: inspect a decision, change the sample inputs, and see whether the workflow follows its rules. The product documents explain the intended user value, the tradeoffs, and what needs to be learned next.
+Each case study distinguishes a product decision, a demonstrated sample behavior, and an unanswered research question. The walkthroughs make the sample behavior reproducible; the measurement plans define what would count as evidence before further investment.
 
 Northstar is a fictional B2B SaaS company used across all five examples. The demos require no login, paid API, real customer data, or live external integrations. Asana Agent is a transparent sample assistant; it connects to neither Asana nor an external AI model.
 
