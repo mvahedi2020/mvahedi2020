@@ -1,8 +1,8 @@
 # Mo Vahedi
 
-**Product Manager · B2B SaaS & AI product experiences**
+**Product / Program Manager · B2B SaaS & AI product experiences**
 
-I frame product problems, choose priorities, define requirements, and evaluate whether a workflow helps people make better decisions. This portfolio shows those choices through five interactive case studies and their product requirements documents (PRDs).
+I frame product problems, choose priorities, define requirements, and evaluate whether a workflow helps people make better decisions. This portfolio shows those choices through seven interactive case studies and their product requirements documents (PRDs).
 
 **My contribution:** product problem framing, prioritization and tradeoffs, requirements and workflows, fictional sample-data design, success criteria, and evaluation. AI tools assisted with implementation and verification. I do not manually write the application code.
 
@@ -12,17 +12,19 @@ You can review the portfolio without reading code. Start with a project’s case
 
 | Case study | Product management judgment to inspect | Product evidence | Interactive demo |
 |---|---|---|---|
+| [First Mile](https://github.com/mvahedi2020/First-Mile/blob/main/docs/product/Case_Study.md) | Decide which onboarding choices must precede first value, with deliberate practice routing, optional setup and understandable return/recovery. | [PRD](https://github.com/mvahedi2020/First-Mile/blob/main/docs/product/PRD.md) · [Sample walkthrough](https://github.com/mvahedi2020/First-Mile/blob/main/docs/product/Sample_Walkthrough.md) | [Try guided practice](https://mvahedi2020.github.io/First-Mile/) |
+| [Program Atlas](https://github.com/mvahedi2020/Program-Atlas/blob/main/docs/product/Case_Study.md) | Trace an upstream delay to affected commitments, compare recovery costs and residual risk, and record an accountable decision. | [PRD](https://github.com/mvahedi2020/Program-Atlas/blob/main/docs/product/PRD.md) · [Sample walkthrough](https://github.com/mvahedi2020/Program-Atlas/blob/main/docs/product/Sample_Walkthrough.md) | [Explore program dependencies](https://mvahedi2020.github.io/Program-Atlas/) |
 | [Feedback Nexus](https://github.com/mvahedi2020/Feedback-Nexus/blob/main/docs/product/Case_Study.md) | Prioritize customer signals with searchable decision rationale and an export that carries segment, source, tag, and scoring inputs alongside the shortlist. | [PRD](https://github.com/mvahedi2020/Feedback-Nexus/blob/main/docs/product/PRD.md) · [Sample walkthrough](https://github.com/mvahedi2020/Feedback-Nexus/blob/main/docs/product/Sample%20Walkthrough.md) | [Review feedback](https://mvahedi2020.github.io/Feedback-Nexus/) |
 | [Asana Agent](https://github.com/mvahedi2020/Asana-Agent/blob/main/docs/product/Case_Study.md) | Keep assistant proposals, reviewed blocker reasons, and status changes under separate human confirmation and recovery steps. | [PRD](https://github.com/mvahedi2020/Asana-Agent/blob/main/docs/product/PRD.md) · [Sample walkthrough](https://github.com/mvahedi2020/Asana-Agent/blob/main/docs/product/Sample%20Walkthrough.md) | [Try the sample assistant](https://mvahedi2020.github.io/Asana-Agent/) |
 | [Metric Dashboard](https://github.com/mvahedi2020/Metric-Dashboard/blob/main/docs/product/Case_Study.md) | Define coherent metric bounds, clear stale action feedback when scope changes, and produce traceable exports with stable filter-specific names. | [PRD](https://github.com/mvahedi2020/Metric-Dashboard/blob/main/docs/product/PRD.md) · [Sample walkthrough](https://github.com/mvahedi2020/Metric-Dashboard/blob/main/docs/product/Sample%20Walkthrough.md) | [Explore product health](https://mvahedi2020.github.io/Metric-Dashboard/) |
 | [Resource Radar](https://github.com/mvahedi2020/Resource-Radar/blob/main/docs/product/Case_Study.md) | Balance initiative demand against capacity while making draft export scope, reset results, and the allocation matrix understandable and reviewable. | [PRD](https://github.com/mvahedi2020/Resource-Radar/blob/main/docs/product/PRD.md) · [Sample walkthrough](https://github.com/mvahedi2020/Resource-Radar/blob/main/docs/product/Sample%20Walkthrough.md) | [Compare allocations](https://mvahedi2020.github.io/Resource-Radar/) |
 | [Launch Control](https://github.com/mvahedi2020/Launch-Control/blob/main/docs/product/Case_Study.md) | Define launch readiness and export a detached, versioned decision snapshot while protecting timeline identity and reset boundaries. | [PRD](https://github.com/mvahedi2020/Launch-Control/blob/main/docs/product/PRD.md) · [Sample walkthrough](https://github.com/mvahedi2020/Launch-Control/blob/main/docs/product/Sample%20Walkthrough.md) | [Review launch readiness](https://mvahedi2020.github.io/Launch-Control/) |
 
-Start with **Feedback Nexus** to inspect an evidence-based prioritization choice or **Asana Agent** to inspect confirmation and recovery boundaries. The walkthroughs use exact sample inputs and observable results; they are product tutorials, not claims of customer validation.
+For Product/Growth, start with **First Mile**; for Program/Value, start with **Program Atlas**. **Feedback Nexus** shows evidence-based prioritization, while **Asana Agent** shows confirmation and recovery boundaries. The walkthroughs use exact sample inputs and observable results; they are product tutorials, not claims of customer validation.
 
-## Why these five projects belong together
+## Why these projects belong together
 
-They cover different decisions a B2B SaaS PM must make: **which problem deserves attention** (Feedback Nexus), **what an assistant may change** (Asana Agent), **what a metric supports** (Metric Dashboard), **what a team has capacity to take on** (Resource Radar), and **whether a launch should proceed** (Launch Control).
+They cover different decisions a Product / Program Manager must make: **what is needed before first value** (First Mile), **how a dependency changes a program commitment** (Program Atlas), **which problem deserves attention** (Feedback Nexus), **what an assistant may change** (Asana Agent), **what a metric supports** (Metric Dashboard), **what a team has capacity to take on** (Resource Radar), and **whether a launch should proceed** (Launch Control).
 
 Northstar gives the examples a consistent fictional setting, but the apps are independent: a shortlisted feedback item does not create an Asana task, change a staffing plan, or approve a launch. Each demo makes one decision and its limits inspectable. Together they show how I define useful scope, preserve human judgment, and decide what evidence is missing before investing further.
 
@@ -44,7 +46,7 @@ These are product artifacts for review, not records of completed customer resear
 
 Each case study distinguishes a product decision, a demonstrated sample behavior, and an unanswered research question. The walkthroughs make the sample behavior reproducible; the measurement plans define what would count as evidence before further investment.
 
-Northstar is a fictional B2B SaaS company used across all five examples. The demos require no login, paid API, real customer data, or live external integrations. Asana Agent is a transparent sample assistant; it connects to neither Asana nor an external AI model.
+Northstar is a fictional B2B SaaS company used across these independent examples. The demos require no login, paid API, real customer data, or live external integrations. Asana Agent is a transparent sample assistant; it connects to neither Asana nor an external AI model.
 
 Proposed success metrics are hypotheses, not achieved business results. Software checks establish whether specified behaviors work; they do not replace customer research, demonstrate adoption, or prove commercial impact. Validation plans distinguish those open questions from the behavior demonstrated today.
 
