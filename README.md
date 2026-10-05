@@ -38,7 +38,7 @@ Northstar gives the examples a consistent fictional setting, but the apps are in
 
 ## Questions before the next investment
 
-The portfolio's decision questions remain relevant as organizations adopt agents. Microsoft's [2026 Work Trend Index](https://www.microsoft.com/en-us/worklab/work-trend-index/agents-human-agency-and-the-opportunity-for-every-organization) emphasizes human agency, judgment and organizational readiness. McKinsey's [2026 State of AI](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai) connects enterprise value with workflow redesign and impact measurement. Gartner's [2026 technology trends](https://www.gartner.com/en/newsroom/press-releases/2025-10-20-gartner-identifies-the-top-strategic-technology-trends-for-2026) include digital provenance: knowing the origin, ownership and integrity of the information used in decisions.
+The portfolio's decision questions remain relevant as organizations adopt agents. Microsoft's [2026 Work Trend Index](https://www.microsoft.com/en-us/worklab/work-trend-index/agents-human-agency-and-the-opportunity-for-every-organization) emphasizes human agency, judgment and organizational readiness. These themes support examining who makes a decision and whether the surrounding workflow is ready for it.
 
 For **2027 planning**, my proposed investment lens is to ask who can authorize an action, which context deserves trust, what useful outcome would justify the operating cost, and when a simpler workflow should win. These are planning hypotheses to test. The demos expose the product questions with fictional data; they do not demonstrate deployed agents or future market outcomes.
 
