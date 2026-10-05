@@ -4,7 +4,7 @@
 
 I frame product problems, choose priorities, define requirements, and evaluate whether a workflow helps people make better decisions. This portfolio shows those choices through fifteen interactive demos with case studies and product requirements documents (PRDs).
 
-**My contribution:** product problem framing, prioritization and tradeoffs, requirements and workflows, fictional sample-data design, success criteria, and evaluation. AI tools assisted with implementation and verification. I do not manually write the application code.
+**My contribution:** product problem framing, prioritization and tradeoffs, requirements and workflows, fictional sample-data design, success criteria, and evaluation. AI tools assisted with implementation and verification. The product decisions, requirements and evidence are the basis for reviewing my work.
 
 ## Start with the product decisions
 
@@ -35,6 +35,12 @@ For Evaluation/Evidence, start with **Experiment Verdict**; for Value Realizatio
 The portfolio connects product discovery, onboarding, AI and search policy, enterprise content review, packaging, lifecycle engagement, account strategy, experiment evaluation, benefit evidence, and program delivery. Each case makes a distinct decision inspectable through requirements, a working sample, and recovery.
 
 Northstar gives the examples a consistent fictional setting, but the apps are independent: a shortlisted feedback item does not create an Asana task, change a staffing plan, or approve a launch. Each demo makes one decision and its limits inspectable. Together they show how I define useful scope, preserve human judgment, and decide what evidence is missing before investing further.
+
+## Questions before the next investment
+
+The portfolio's decision questions remain relevant as organizations adopt agents. Microsoft's [2026 Work Trend Index](https://www.microsoft.com/en-us/worklab/work-trend-index/agents-human-agency-and-the-opportunity-for-every-organization) emphasizes human agency, judgment and organizational readiness. McKinsey's [2026 State of AI](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai) connects enterprise value with workflow redesign and impact measurement. Gartner's [2026 technology trends](https://www.gartner.com/en/newsroom/press-releases/2025-10-20-gartner-identifies-the-top-strategic-technology-trends-for-2026) include digital provenance: knowing the origin, ownership and integrity of the information used in decisions.
+
+For **2027 planning**, my proposed investment lens is to ask who can authorize an action, which context deserves trust, what useful outcome would justify the operating cost, and when a simpler workflow should win. These are planning hypotheses to test. The demos expose the product questions with fictional data; they do not demonstrate deployed agents or future market outcomes.
 
 ## A closer look at my product management work
 
