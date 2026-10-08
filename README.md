@@ -2,6 +2,8 @@
 
 **Product / Program Manager · Software for teams & AI product experiences**
 
+[View my portfolio and resume](https://mo-vahedi-portfolio.vercel.app/) · [Browse the guided demos](https://mo-vahedi-portfolio.vercel.app/demos/)
+
 I work on software products for teams: understanding a problem, choosing what to improve, defining how it should work, and checking whether the result is useful. This portfolio makes those decisions visible through fifteen interactive demos, case studies and product requirements documents (PRDs).
 
 **My contribution:** product problem framing, prioritization and tradeoffs, requirements and workflows, fictional sample-data design, success criteria, and evaluation. AI tools assisted with implementation and verification. The product decisions, requirements and evidence are the basis for reviewing my work.
